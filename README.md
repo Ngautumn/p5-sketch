@@ -12,7 +12,7 @@ outside, activating, deforming, and destabilising it through discrete keyboard i
 
 How to Run 
 Open the link below in your browser once GitHub Pages is enabled: 
-https://editor.p5js.org/Shuran/full/V4etvIMbc   
+https://github.com/Ngautumn/p5-sketch   
 
 Tools Used 
 ● p5.js 
